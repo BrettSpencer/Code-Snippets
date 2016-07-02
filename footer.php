@@ -1,0 +1,1 @@
+<a href="http://darkmassdesign.com/">Dark Mass Design</a> | All Rights Reserved | &copy;<?=date('Y'); ?>
